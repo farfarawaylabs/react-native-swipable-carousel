@@ -64,7 +64,7 @@
     "react": "*",
     "react-native": "*",
     "react-native-gesture-handler": "^1.6.1",
-    "react-native-reanimated": "^1.9.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-redash": "^14.1.1"
   },
   "jest": {
@@ -137,7 +137,7 @@
   },
   "dependencies": {
     "react-native-gesture-handler": "^1.6.1",
-    "react-native-reanimated": "^1.9.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-redash": "^14.1.1"
   }
 }
